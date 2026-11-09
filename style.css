@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.question {
+    background-color: #54bae0;
+    padding: 15px;
+    cursor: pointer;
+    border: 5px solid #050101;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #0cb84e;
+}
+
+h1 {
+    border-bottom: 10px solid #010a02;
+    text-align: center;
+}
